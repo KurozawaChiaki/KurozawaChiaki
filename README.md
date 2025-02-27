@@ -1,17 +1,11 @@
-列車は必ず次の駅へ 
+<p align="center"><i>列車は必ず次の駅へ</i></p>
 
 *では舞台は？*
 
 ***私たちは？***
 
-</center>
-
 ___
-<center>
-
 <a href="https://space.bilibili.com/20233752" target="_blank"><img  align=center src="https://img.shields.io/badge/Bilibili-千秋千秋千秋千-%23ff00f9?style=for-the-badge"/></a> <a href="https://music.163.com/#/artist?id=32874710" target="_blank"><img  align=center src="https://img.shields.io/badge/网易云音乐-GL1STENING-%23e60026?style=for-the-badge"/></a>
-
-</center>
 
 ## 关于我 / About Me
 
