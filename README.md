@@ -1,10 +1,8 @@
-<center>
-
 列車は必ず次の駅へ 
 
-<font color="red">では舞台は？</font>
+*では舞台は？*
 
-<font color="red"><b>私たちは？</b></font>
+***私たちは？***
 
 </center>
 
